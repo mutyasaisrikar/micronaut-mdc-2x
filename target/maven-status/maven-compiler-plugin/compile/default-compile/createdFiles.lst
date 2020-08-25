@@ -1,0 +1,11 @@
+com/srikar/test/logging/$ClientLoggingRegistrationDefinition.class
+com/srikar/test/interfaces/$MyControllerDefinitionClass.class
+com/srikar/test/interfaces/$MyControllerDefinition.class
+com/srikar/test/logging/ClientLoggingRegistration.class
+com/srikar/test/interfaces/MyController.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+com/srikar/test/interfaces/$MyControllerDefinition$$exec1.class
+com/srikar/test/Application.class
+com/srikar/test/interfaces/MyController$Response.class
+com/srikar/test/logging/$ClientLoggingRegistrationDefinitionClass.class
+com/srikar/test/logging/CustomLoggingSink.class

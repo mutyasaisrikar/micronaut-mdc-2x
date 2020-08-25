@@ -1,0 +1,4 @@
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+com/srikar/test/$MyControllerTestDefinition.class
+com/srikar/test/$MyControllerTestDefinitionClass.class
+com/srikar/test/MyControllerTest.class
